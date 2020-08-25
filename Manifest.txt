@@ -1,0 +1,13 @@
+Name: com.av.commons
+Specification-Title: avega commons
+Specification-Version: 1.3.2
+Specification-Vendor: avega
+Implementation-Title: av_commons
+Implementation-Version: build01
+Implementation-Vendor: avega
+Changes: 1.0 - Configuraciones y ConnectionManager
+//1.1 - Convertidor de Base64 y Funcion de ReadFile
+//1.2 - Funcion de SSH
+//1.3 - Cambio en nombre de paquetes
+//1.3.1 - Cambio de librerias para conexion SSH
+//1.3.2 - Versionamiento en git
